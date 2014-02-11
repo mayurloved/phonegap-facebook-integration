@@ -1,4 +1,4 @@
-# Apache Cordova Facebook Plugin
+# Facebook Integration in PhoneGap
 by [Mayur Panchal](http://www.excellentwebworld.com)
 
 
