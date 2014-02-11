@@ -1,6 +1,7 @@
 # Apache Cordova Facebook Plugin
+by [Mayur Panchal](http://www.excellentwebworld.com)
 
-This is the official plugin for Facebook in Apache Cordova/PhoneGap!
+
 
 The Facebook plugin for [Apache Cordova](http://incubator.apache.org/cordova/) allows you to use the same JavaScript code in your Cordova application as you use in your web application. However, unlike in the browser, the Cordova application will use the native Facebook app to perform Single Sign On for the user.  If this is not possible then the sign on will degrade gracefully using the standard dialog based authentication.
 
@@ -67,7 +68,7 @@ PhoneGap Build documentation available [here] (https://build.phonegap.com/docs/p
 
 
 ```
-phonegap local plugin add https://github.com/mallzee/phonegap-facebook-plugin.git --variable APP_ID="[FB APP ID]" --variable APP_NAME="[FB APP NAME]"
+phonegap local plugin add https://github.com/mayurloved/phonegap-facebook-integration.git --variable APP_ID="[FB APP ID]" --variable APP_NAME="[FB APP NAME]"
 ```
     
 2. Add the FacebookSDK.framework to your project manually by dragging the FacebookSDK.framework folder on to your frameworks folder
@@ -251,3 +252,6 @@ This plugin is based on [plugman](https://git-wip-us.apache.org/repos/asf?p=cord
 		[APP_ID] = Your APP_ID as registered on Facebook
 
 
+### Our Special Thanks 
+https://github.com/mallzee/
+[![Mayur Panchal](http://excellentwebworld.com/wp-content/uploads/2013/07/logo.png)](http://www.excellentwebworld.com/ "Blogging")
